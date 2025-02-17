@@ -1,18 +1,11 @@
-/*cabeçalho*/
-
-
-/*Conteudo principal*/
-
-
-/*banner*/
-
-/*Produtos vendidos*/
 /*Rodapé*/
 
-/*Botão Voltar topo*/
+footer{
+    text-align: center;
+}
 
-/* página de login  */
-
-
-/* Formulário de cadastro*/
+footer p{
+    font-weight: bold;
+    padding: 10px;
+}
 
